@@ -61,6 +61,7 @@ pages = {158-170},
 year = {2022},
 issn = {1566-2535},
 doi = {https://doi.org/10.1016/j.inffus.2021.09.002}
+}
 ```
 
 # Contact
