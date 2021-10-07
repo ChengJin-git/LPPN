@@ -47,5 +47,14 @@ The following visual results is generated from WorldView-3 datasets.
 
 All visual results can be also found in '[results/](./results)'.
 
+# Acknowledgement
+Part of code of this work is derived from [https://xueyangfu.github.io/projects/LPNet.html](https://xueyangfu.github.io/projects/LPNet.html).
+
 # Citation
 Citation information will be presented after the paper is fully published.
+
+# Contact
+We are glad to hear from you. If you have any questions, please feel free to contact [Cheng.Jin@std.uestc.edu.cn](mailto:Cheng.Jin@std.uestc.edu.cn) or open issues on this repository.
+
+# License
+This project is open sourced under MIT license.

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Data/Machine Learning/Cheng Jin/LPPN(submitted)/GF/models-GF/model-95000.ckpt"
+all_model_checkpoint_paths: "/Data/Machine Learning/Cheng Jin/LPPN(submitted)/GF/models-GF/model-95000.ckpt"
