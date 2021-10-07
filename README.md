@@ -51,7 +51,17 @@ All visual results can be also found in '[results/](./results)'.
 Part of code of this work is derived from [https://xueyangfu.github.io/projects/LPNet.html](https://xueyangfu.github.io/projects/LPNet.html).
 
 # Citation
-Citation information will be presented after the paper is fully published.
+```bib
+@article{LPPN,
+author = {Cheng Jin, Liang-Jian Deng, Ting-Zhu Huang and Gemine Vivone},
+title = {Laplacian pyramid networks: A new approach for multispectral pansharpening},
+journal = {Information Fusion},
+volume = {78},
+pages = {158-170},
+year = {2022},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2021.09.002}
+```
 
 # Contact
 We are glad to hear from you. If you have any questions, please feel free to contact [Cheng.Jin@std.uestc.edu.cn](mailto:Cheng.Jin@std.uestc.edu.cn) or open issues on this repository.
