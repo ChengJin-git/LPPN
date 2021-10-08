@@ -1,4 +1,4 @@
-# Laplacian Pyramid Networks: A new Approach for Multispectral Pansharpening
+# Laplacian pyramid networks: A new approach for multispectral pansharpening
 
 Homepage: 
 
@@ -6,7 +6,7 @@ https://chengjin.netlify.app/
 
 https://liangjiandeng.github.io/
 
-- Code for paper: "Laplacian Pyramid Networks: A new Approach for Multispectral Pansharpening, Information Fusion"
+- Code for paper: "Laplacian pyramid networks: A new approach for multispectral pansharpening, Information Fusion"
 - State-of-the-art pansharpening performance
 
 
