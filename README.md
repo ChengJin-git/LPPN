@@ -68,4 +68,4 @@ doi = {https://doi.org/10.1016/j.inffus.2021.09.002}
 We are glad to hear from you. If you have any questions, please feel free to contact [Cheng.Jin@std.uestc.edu.cn](mailto:Cheng.Jin@std.uestc.edu.cn) or open issues on this repository.
 
 # License
-This project is open sourced under MIT license.
+This project is open sourced under GNU Affero General Public License v3.0 license.
