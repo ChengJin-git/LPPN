@@ -13,11 +13,15 @@ This is the description of how to run our training code and testing code.
 
 ## Training instructions
 
+In `Generate_MS_MTF_Kernels.m` and 'Generate_PAN_MTF_kernels.m`:
+- Change the sensor type variable `sensor` at line 14.
+- Run the script and move the generated kernel to the destinated training foler.
+
 In `training.py`:
 
 - Modify the train/validation data input in .mat format
 - Change the `image_size` to the dataset input
-- Change the MTF kernel input according to the dataset settings in the comments
+- Change the MTF kernel input according to the dataset settings according the comments of the file
 - Change the normalizaition scale according to the worldview level of the corresponding datasets
 
 In `model.py`:
