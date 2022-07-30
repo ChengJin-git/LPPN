@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: >-
+  Laplacian pyramid networks: A new approach for
+  multispectral pansharpening
+message: >-
+  If you use our method in the experiments of your
+  work, please consider to cite it using the
+  following metadata. 
+type: software
+authors:
+  - given-names: Cheng
+    family-names: Jin
+    email: Cheng.Jin@std.uestc.edu.cn
+    affiliation: >-
+      School of Optoelectronic Science and
+      Engineering, University of Electronic Science
+      and Technology of China
+    orcid: 'https://orcid.org/0000-0002-3522-3592'
+  - given-names: Liang-Jian
+    family-names: Deng
+    email: liangjian.deng@uestc.edu.cn
+    affiliation: >-
+      School of Mathematical Sciences, University of
+      Electronic Science and Technology of China
+    orcid: 'https://orcid.org/0000-0003-3178-9772'
+  - given-names: Ting-Zhu
+    family-names: Huang
+    email: tingzhuhuang@126.com
+    affiliation: >-
+      School of Mathematical Sciences, University of
+      Electronic Science and Technology of China
+  - given-names: Gemine
+    family-names: Vivone
+    email: gemine.vivone@gmail.com
+    affiliation: >-
+      c Institute of Methodologies for Environmental
+      Analysis, CNR-IMAA
+    orcid: 'https://orcid.org/0000-0001-9542-0638'
